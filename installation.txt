@@ -1,0 +1,14 @@
+npx create-react-app my-app
+npm install web-vitals
+
+or 
+
+npm create react-app my-app
+
+or using vite:
+npm create vite@latest
+
+-------------------------------------------
+https://vite.dev/guide/
+https://github.com/hiteshchoudhary/chai-aur-react
+https://react.dev/learn/start-a-new-react-project
