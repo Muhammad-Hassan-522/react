@@ -1,0 +1,6 @@
+virtualDOM only changes values/things that are updated while the browser repaints the whole DOM means it removes the DOM and rewrites it that's why page reloading is shown.
+
+Article Link:
+https://github.com/acdlite/react-fiber-architecture
+
+Reconciliation: The algorithm React uses to diff one tree (browser's tree) with another  createRoot' tree) to determine which parts need to be changed. 
